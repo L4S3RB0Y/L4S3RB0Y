@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Eduard Bueno 👋  
+🚀 Data Scientist | Machine Learning Enthusiast | NLP & AI  
 
-<!--
-**L4S3RB0Y/L4S3RB0Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I specialize in:
+- Machine Learning & Recommendation Systems  
+- Data Analysis & Visualization  
+- Neural Networks
 
-Here are some ideas to get you started:
+📌 **Featured Projects**  
+- 🏥 [Nurse-Hospital Recommendation System](https://github.com/Ask-Margot-Nurse-Match/NurseMatch)  
+- 🚗 [AirBnB Superhost Prediction Model](https://github.com/L4S3RB0Y/lab5BTT)  
+- 📊 [Census Income Classification](https://github.com/L4S3RB0Y/ML_project_census)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/eduard-miguel-bueno/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourwebsite.com)  
